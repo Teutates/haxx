@@ -1,0 +1,10 @@
+Package: u0inaru
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Teutates
+Section: Utilities
+Priority: standard
+Homepage: https://github.com/Teutates/
+Description: Unc0ver Is Not A Real Untether
+ Unc0ver Is Not A Real Untether (u0inaru) is an untether for
+ all versions of iOS 14 jailbroken with Taurine.

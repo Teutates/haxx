@@ -1,0 +1,6 @@
+#!/bin/sh
+
+if [ upgrade != "$1" ]; then
+    dpkg-divert --package u0inaru --add --rename \
+        --divert /sbin/launchd.real /sbin/launchd
+fi
